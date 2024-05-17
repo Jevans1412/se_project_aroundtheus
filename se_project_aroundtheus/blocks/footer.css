@@ -1,0 +1,23 @@
+.footer{
+    box-sizing: border-box;
+}
+
+.footer__copyright{
+    color: #545454;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    font-family: Inter;
+    margin-top:67px;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+@media  screen and (max-width:480px){
+    .footer__copyright{
+        position: relative;
+        
+    }
+}
+
+
