@@ -1,0 +1,23 @@
+.header {
+  margin-top: 45px;
+  font-family: Inter;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+.header__logo {
+  margin-bottom: 41px;
+}
+
+@media screen and (max-width:480px) {
+    .header{
+        margin-top: 28px;
+        border-bottom-width:100%
+    }
+
+    .header__logo{
+      margin-left: 27px;
+      margin-bottom: 32px;
+      width: 126px;
+      height: 24px;
+    }
+}
