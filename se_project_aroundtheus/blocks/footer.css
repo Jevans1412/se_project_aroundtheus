@@ -1,23 +1,24 @@
-.footer{
-    box-sizing: border-box;
+.footer {
+  box-sizing: border-box;
 }
 
-.footer__copyright{
-    color: #545454;
-    font-size: 18px;
-    line-height: 22px;
-    font-weight: 400;
-    font-family: Inter;
-    margin-top:67px;
-    padding: 0;
-    margin-bottom: 0;
+.footer__copyright {
+  color: #545454;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  font-family: Inter, Arial, sans-serif;
+  margin-top: 67px;
+  padding: 0;
+  margin-bottom: 16px;
 }
 
-@media  screen and (max-width:480px){
-    .footer__copyright{
-        position: relative;
-        
-    }
+@media screen and (max-width: 480px) {
+  .footer__copyright {
+    position: relative;
+    font-size: 14px;
+    margin-top: 48px;
+    line-height: 17px;
+  }
 }
-
 
