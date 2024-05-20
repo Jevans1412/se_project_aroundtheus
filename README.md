@@ -1,21 +1,35 @@
 # Project 3: Around The U.S.
-
-### Overview  
-
-* Intro  
-* Figma  
-* Images  
+Title: Around The U.S.
+  
   
 **Intro**
   
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+Hello all! My name is Jeremy Evans, this project is made so all the elements are displayed correctly on popular screen sizes. Starting from scratch in order to replicate the mockup that is posted below availabe on figma or this current README file. The idea is to make it responsive from 1280px to 320px while keeping all elements from sticking to the left side. Hope you enjoy!  
+
+* Flexboxes
+* Grids
+* Calc Function
+* Margins
+* Positioning
+* BEM Structure and labeling
+* Grid template
   
 **Figma**  
   
 * [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
   
 **Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+
+![Project layout](<MAIN PAGE.png>)
+
+ 
+ 
+ 
+ 
+
+https://jevans1412.github.io/se_project_aroundtheus/index.html
+
+Video Link[https://youtu.be/5q_TYZY77bM?si=20m4bebbpLi_echL]
   
 Good luck and have fun!
+
