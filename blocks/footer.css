@@ -10,15 +10,15 @@
   font-family: Inter, Arial, sans-serif;
   margin-top: 67px;
   padding: 0;
-  margin-bottom: 16px;
+  margin-bottom: 0;
 }
 
 @media screen and (max-width: 480px) {
   .footer__copyright {
+    margin-left: 19px;
     position: relative;
     font-size: 14px;
     margin-top: 48px;
     line-height: 17px;
   }
 }
-

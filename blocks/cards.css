@@ -11,5 +11,6 @@
 @media screen and (max-width: 480px) {
   .cards__list {
     position: relative;
+    margin-top: 36px;
   }
 }
